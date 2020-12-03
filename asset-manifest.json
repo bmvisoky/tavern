@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tavern/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/tavern/static/js/main.46241eaa.chunk.js",
+    "main.js.map": "/tavern/static/js/main.46241eaa.chunk.js.map",
+    "runtime-main.js": "/tavern/static/js/runtime-main.fdadbf30.js",
+    "runtime-main.js.map": "/tavern/static/js/runtime-main.fdadbf30.js.map",
+    "static/js/2.35e62de9.chunk.js": "/tavern/static/js/2.35e62de9.chunk.js",
+    "static/js/2.35e62de9.chunk.js.map": "/tavern/static/js/2.35e62de9.chunk.js.map",
+    "static/js/3.90a28a10.chunk.js": "/tavern/static/js/3.90a28a10.chunk.js",
+    "static/js/3.90a28a10.chunk.js.map": "/tavern/static/js/3.90a28a10.chunk.js.map",
+    "index.html": "/tavern/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/tavern/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.35e62de9.chunk.js.LICENSE.txt": "/tavern/static/js/2.35e62de9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tavern/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdadbf30.js",
+    "static/js/2.35e62de9.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.46241eaa.chunk.js"
+  ]
+}
